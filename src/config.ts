@@ -11,8 +11,8 @@ export const SITE = {
   author: "Your Name",
   language: "ko",
   locale: "ko-KR",
-  url: "https://dgddgd314.github.io",
-  basePath: "/astro-bento-blog-template",
+  url: "https://champa-champei.github.io",
+  basePath: "/notion-like",
   brand: {
     name: "bento",
     accent: "blog",
@@ -20,14 +20,14 @@ export const SITE = {
   socialLinks: [
     {
       label: "GitHub",
-      href: "https://github.com/dgddgd314/astro-bento-blog-template",
+      href: "https://github.com/champa-champei/notion-like",
     },
     {
       label: "RSS",
       href: "/rss.xml",
     },
   ],
-  storagePrefix: "astro-bento-blog",
+  storagePrefix: "notion-like",
   features: {
     transitions: true,
   },
