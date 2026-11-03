@@ -5,15 +5,15 @@
   "version": "1.0.0",
   "private": false,
   "license": "MIT",
-  "author": "dgddgd314",
+  "author": "champa-champei",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dgddgd314/astro-bento-blog-template.git"
+    "url": "git+https://github.com/champa-champei/notion-like.git"
   },
   "bugs": {
-    "url": "https://github.com/dgddgd314/astro-bento-blog-template/issues"
+    "url": "https://github.com/champa-champei/notion-like/issues"
   },
-  "homepage": "https://dgddgd314.github.io/astro-bento-blog-template/",
+  "homepage": "https://champa-champei.github.io/notion-like/",
   "keywords": [
     "astro",
     "astro-theme",
@@ -36,6 +36,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "latest"
     "@astrojs/rss": "^4.0.18",
     "astro": "^6.1.8",
     "daisyui": "^5.5.4",
