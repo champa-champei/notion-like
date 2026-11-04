@@ -12,7 +12,7 @@ export const SITE = {
   language: "ko",
   locale: "ko-KR",
   url: "https://champa-champei.github.io",
-  basePath: "/notion-like",
+  basePath: "/notion-like/blog",
   brand: {
     name: "bento",
     accent: "blog",
@@ -20,7 +20,7 @@ export const SITE = {
   socialLinks: [
     {
       label: "GitHub",
-      href: "https://github.com/champa-champei/notion-like",
+      href: "https://github.com/champa-champei/notion-like/blog",
     },
     {
       label: "RSS",
