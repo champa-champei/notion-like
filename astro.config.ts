@@ -8,7 +8,7 @@ export default defineConfig({
   site: SITE.url,
   base: SITE.basePath,
   trailingSlash: "always",
-  output: "server",
+  output: "static",
   adapter: cloudflare(),
   vite: {
     plugins: [tailwindcss()],
