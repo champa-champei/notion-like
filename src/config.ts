@@ -11,8 +11,8 @@ export const SITE = {
   author: "Your Name",
   language: "ko",
   locale: "ko-KR",
-  url: "https://champa-champei.github.io",
-  basePath: "/notion-like/blog",
+  url: "https://notion-like.p-champawadtey.workers.dev",
+  basePath: "/",
   brand: {
     name: "bento",
     accent: "blog",
